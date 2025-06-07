@@ -1,4 +1,5 @@
 🐍 Python & IDE Installation Guide – Beginner Friendly (2025 Edition)
+
 📖 What is Python?
 Python is a popular programming language known for being:
 
@@ -9,6 +10,7 @@ Powerful for web, games, AI, and data science 🚀
 Used by big companies like Google, YouTube, Instagram, and NASA 🌍
 
 💡 What is an IDE?
+
 IDE stands for Integrated Development Environment.
 It’s a software that helps you write, run, and debug your code in one place.
 
@@ -21,6 +23,7 @@ PyCharm
 Thonny (very simple, great for kids)
 
 🛠️ Step 1: Install Python
+
 🔗 Download Python:
 Go to the official Python website: https://python.org
 
@@ -36,9 +39,7 @@ Wait for the installation to complete, then click Close
 🔍 Test it:
 Open your terminal or command prompt and type:
 
-bash
-Copy
-Edit
+
 python --version
 If it shows a version like Python 3.12.1, you're good to go!
 
@@ -67,9 +68,7 @@ Save it as hello.py
 
 Type:
 
-python
-Copy
-Edit
+
 print("Hello, world!")
 Right-click in the code window and select Run Python File in Terminal
 
@@ -78,9 +77,7 @@ Packages are tools you can add to Python.
 
 Example (installing pygame for game development):
 
-bash
-Copy
-Edit
+
 pip install pygame
 More fun packages:
 
